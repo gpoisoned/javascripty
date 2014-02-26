@@ -1,0 +1,44 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/Users/gpoison/scala_projects/lab3/src/main/scala/Lab3.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/Users/gpoison/scala_projects/lab3/target/scala-2.10/classes/Lab3$$anonfun$1.class, /Users/gpoison/scala_projects/lab3/target/scala-2.10/classes/Lab3$.class, /Users/gpoison/scala_projects/lab3/target/scala-2.10/classes/Lab3$$anonfun$processFile$2.class, /Users/gpoison/scala_projects/lab3/target/scala-2.10/classes/Lab3.class, /Users/gpoison/scala_projects/lab3/target/scala-2.10/classes/Lab3$$anonfun$2.class, /Users/gpoison/scala_projects/lab3/target/scala-2.10/classes/Lab3$$anonfun$processFile$1.class)[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Users/gpoison/scala_projects/lab3/src/main/scala/Lab3.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/Users/gpoison/scala_projects/lab3/src/main/scala/Lab3.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/gpoison/scala_projects/lab3/src/main/scala/Lab3.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /Users/gpoison/scala_projects/lab3/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.3[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 6a99e02d, interfacing (CompilerInterface) with Scala compiler version 2.10.3[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/JObjC.jar:/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/classes:/Users/gpoison/.sbt/boot/scala-2.10.3/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/gpoison/scala_projects/lab3/target/scala-2.10/classes:/Users/gpoison/scala_projects/lab3/lib/liblab3.jar:/Users/gpoison/scala_projects/lab3/lib/scalatest_2.10-2.0.jar[0m
+[0m[[33mwarn[0m] [0m/Users/gpoison/scala_projects/lab3/src/main/scala/Lab3.scala:138: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following inputs: And, Div, Ge, Gt, Le, Lt, Minus, Or, Plus, Seq, Times[0m
+[0m[[33mwarn[0m] [0m        bop match {[0m
+[0m[[33mwarn[0m] [0m        ^[0m
+[0m[[33mwarn[0m] [0m/Users/gpoison/scala_projects/lab3/src/main/scala/Lab3.scala:229: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following inputs: (B(_), Binary(_, _, _)), (B(_), Expr()), (B(_), If(_, _, _)), (B(_), Print(_)), (Binary(_, _, _), Binary(_, _, _)), (Binary(_, _, _), Expr()), (Binary(_, _, _), If(_, _, _)), (Binary(_, _, _), Print(_)), (Call(_, _), Binary(_, _, _)), (Call(_, _), Call(_, _)), (Call(_, _), Expr()), (Call(_, _), If(_, _, _)), (Call(_, _), Print(_)), (ConstDecl(_, _, _), ConstDecl(_, _, _)), (ConstDecl(_, _, _), Expr()), (ConstDecl(_, _, _), If(_, _, _)), (ConstDecl(_, _, _), N(_)), (ConstDecl(_, _, _), Print(_)), (Expr(), B(_)), (Expr(), Binary(_, _, _)), (Expr(), Call(_, _)), (Expr(), ConstDecl(_, _, _)), (Expr(), Expr()), (Expr(), Function(_, _, _)), (Expr(), If(_, _, _)), (Expr(), Print(_)), (Expr(), Unary(_, _)), (Expr(), Undefined), (Expr(), Var(_)), (Function(_, _, _), Binary(_, _, _)), (Function(_, _, _), Expr()), (Function(_, _, _), If(_, _, _)), (Function(_, _, _), Print(_)), (If(_, _, _), B(_)), (If(_, _, _), Binary(_, _, _)), (If(_, _, _), Call(_, _)), (If(_, _, _), ConstDecl(_, _, _)), (If(_, _, _), Expr()), (If(_, _, _), Function(_, _, _)), (If(_, _, _), If(_, _, _)), (If(_, _, _), Print(_)), (If(_, _, _), Unary(_, _)), (If(_, _, _), Undefined), (If(_, _, _), Var(_)), (Print(_), Binary(_, _, _)), (Print(_), Expr()), (Print(_), If(_, _, _)), (Print(_), Print(_)), (Unary(_, _), B(_)), (Unary(_, _), Binary(_, _, _)), (Unary(_, _), Call(_, _)), (Unary(_, _), ConstDecl(_, _, _)), (Unary(_, _), Expr()), (Unary(_, _), Function(_, _, _)), (Unary(_, _), If(_, _, _)), (Unary(_, _), N(_)), (Unary(_, _), Print(_)), (Unary(_, _), Unary(_, _)), (Unary(_, _), Undefined), (Unary(_, _), Var(_)), (Undefined, B(_)), (Undefined, Binary(_, _, _)), (Undefined, ConstDecl(_, _, _)), (Undefined, Expr()), (Undefined, Function(_, _, _)), (Undefined, If(_, _, _)), (Undefined, Print(_)), (Undefined, Unary(_, _)), (Undefined, Undefined), (Undefined, Var(_)), (Var(_), Binary(_, _, _)), (Var(_), Expr()), (Var(_), If(_, _, _)), (Var(_), Print(_))[0m
+[0m[[33mwarn[0m] [0m      case Binary(Plus,e1,e2) if isValue(e1) && isValue(e2) => (e1,e2) match{[0m
+[0m[[33mwarn[0m] [0m                                                               ^[0m
+[0m[[33mwarn[0m] [0m/Users/gpoison/scala_projects/lab3/src/main/scala/Lab3.scala:238: match may not be exhaustive.[0m
+[0m[[33mwarn[0m] [0mIt would fail on the following inputs: And, Div, Eq, Minus, Ne, Or, Plus, Seq, Times[0m
+[0m[[33mwarn[0m] [0m        bop match{[0m
+[0m[[33mwarn[0m] [0m        ^[0m
+[0m[[33mwarn[0m] [0mthree warnings found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 15.255276 s[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m

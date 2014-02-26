@@ -1,0 +1,82 @@
+eclipse
+quit
+exit
+eclipse
+reload
+exit
+eclipse
+exit
+eclipse
+exit
+compile
+eclipse
+exit
+eclipse
+quit
+exit
+test
+run 
+run Lab1
+help
+help run
+run 'Lab1'
+run-main Lab1
+run-main Lab1 src/test/jsy/lab1-parser/parser01_good.jsy
+run-main Lab1 src/test/jsy/lab1-parser/parser02_bad.jsy
+run-main Lab1 src/test/jsy/lab1/test01_arith.jsy
+1 + (2 - 3) * 4 / (-5)
+console
+ls
+run-main Lab1 src/test/jsy/lab1/test02_divbyzero.jsy
+compile
+recompile
+clean
+quit
+exit
+test
+quit
+exit
+assembly
+reload
+quit
+exit
+run-main "Lab1GradingMain"
+run
+compile
+run Lab1GradingMain
+help
+help run
+test
+tasks
+run
+quit
+exit
+sbt run
+run
+show version
+reload
+projects
+project lab1-grader
+compile
+project lab1-grader
+compile
+run
+project lab1-grader
+test
+quit
+exit
+compile
+clean
+compile
+eclipse
+compile
+project
+list
+help
+projects
+project lab2-grader
+run lab2-grader
+project lab2-grader
+eclipse
+clean
+project lab2-grader
