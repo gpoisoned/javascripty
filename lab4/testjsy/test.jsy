@@ -1,0 +1,2 @@
+const g = function f(x: number, y:number):number { return x+y };
+g(3,4);

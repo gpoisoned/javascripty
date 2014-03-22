@@ -1,0 +1,3 @@
+project lab4-grader
+run --debug testjsy/test.jsy
+exit
