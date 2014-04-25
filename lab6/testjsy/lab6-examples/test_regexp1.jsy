@@ -1,0 +1,23 @@
+/* Examples for Lab 6 */
+
+// The following lines will run with the template as-is.
+jsy.print( /^.$/.test("a") )
+jsy.print( /^.$/.test("") )
+
+// The following lines show how you can test your regular
+// expression matcher.
+jsy.print( /^a$/.test("a") )
+jsy.print( /^a$/.test("b") )
+jsy.print( /^aa$/.test("a") )
+jsy.print( /^aa$/.test("aa") )
+jsy.print( /^a|b$/.test("a") )
+jsy.print( /^a|b$/.test("b") )
+jsy.print( /^a*$/.test("") )
+jsy.print( /^a*$/.test("aaa") )
+jsy.print( /^a*$/.test("b") )
+
+// You can either use the provided interpreter or extend
+// your own from Lab 5.
+const a_re = /^a*$/
+const a_string = "aaaaa"
+jsy.print(a_re.test(a_string))

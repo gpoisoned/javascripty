@@ -1,0 +1,746 @@
+format version: 1
+products:
+218 items
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$3.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$4.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$5.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$6.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$7.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$8.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$Lab5$$loop$1$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$Lab5$$loop$1$2$$anonfun$apply$5$$anonfun$apply$6.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$Lab5$$loop$1$2$$anonfun$apply$5.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$Lab5$$loop$1$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$castOk$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$hasFunctionTyp$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$iterateStep$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$mapFirstWith$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$mapFirstWith$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$mapFirstWith$3.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$processFile$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$processFile$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$10.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$11.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$12.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$13.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$14.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$15.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$16.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$17.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$18$$anonfun$apply$3.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$18$$anonfun$apply$4.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$18.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$19.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$20.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$21.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$22.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$23.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$24.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$25.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$26.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$27.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$28.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$29.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$3.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$4.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$5$$anonfun$apply$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$5.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$6.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$7.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$8$$anonfun$apply$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$8.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$9.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$substitute$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$substitute$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$typeInfer$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$typeInfer$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$typeInfer$3.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$TerminationError$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$TerminationError.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$10.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$11.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$12$$anonfun$apply$5.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$12.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$13.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$14.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$15$$anonfun$apply$6.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$15.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$18.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$2$$anonfun$16$$anonfun$apply$7.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$2$$anonfun$16.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$2$$anonfun$17.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$21$$anonfun$apply$10.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$21.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$22.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$23.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$24.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$25.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$26.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$3.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$4.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$5.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$6.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$7.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$8.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$9.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$checkClosed$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$doget$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$domodify$1$$anonfun$apply$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$domodify$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$doreturn$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$freeVars$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$freeVarsVar$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$freeVarsVar$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$freeVarsVar$3.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$freeVarsVar$4.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$myvisitant$1$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$myvisitant$2$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$1$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$19$$anonfun$apply$8.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$19.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$20.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$applyOrElse$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$2$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$tyrm$1$1$$anonfun$applyOrElse$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$tyrm$1$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$pretty$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$pretty$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$removeFromTyp$1$1$$anonfun$apply$9.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$removeFromTyp$1$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$rename$1$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$rename$1$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$rename$1$3.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$typSubstitute$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$typSubstituteExpr$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$A$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$A.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$And$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Assign$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Assign.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$B$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$B.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Binary$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Binary.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Bop.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Call$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Call.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Cast$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Cast.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Decl$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Decl.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Deref$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Div$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$DoWith$$anonfun$flatMap$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$DoWith$$anonfun$map$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$DoWith.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$DynamicTypeError$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$DynamicTypeError.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Eq$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Expr.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Function$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Function.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Ge$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$GetField$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$GetField.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Gt$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$If$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$If.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$InterfaceDecl$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$InterfaceDecl.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Le$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Lt$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$MConst$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$MVar$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem$$anonfun$alloc$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem$$anonfun$alloc$2$$anonfun$apply$3.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem$$anonfun$alloc$2$$anonfun$apply$4.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem$$anonfun$alloc$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Minus$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mutability.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$N$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$N.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Ne$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Neg$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Not$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Null$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$NullDereferenceError$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$NullDereferenceError.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Obj$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Obj.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Or$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$PMode.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$PName$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$PRef$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$PVar$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Plus$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Print$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Print.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$S$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$S.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Seq$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$StaticTypeError$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$StaticTypeError.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$StuckError$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$StuckError.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TBool$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TFunction$$anonfun$proj$1$1$$anonfun$apply$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TFunction$$anonfun$proj$1$1.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TFunction$$anonfun$proj$1$2.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TFunction$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TFunction.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TInterface$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TInterface.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TNull$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TNumber$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TObj$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TObj.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TString$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TUndefined$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TVar$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TVar.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Times$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Typ.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Unary$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Unary.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$UnboundVariableError.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Undefined$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Uop.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Var$.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Var.class
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast.class
+binary dependencies:
+6 items
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/.sbt/boot/scala-2.10.3/lib/scala-library.jar
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/lib/liblab5.jar
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/.sbt/boot/scala-2.10.3/lib/scala-library.jar
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> /Users/gpoison/scala_projects/lab5/lib/liblab5.jar
+source dependencies:
+1 items
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> /Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala
+external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+class names:
+218 items
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$3
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$4
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$5
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$6
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$7
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$8
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$Lab5$$loop$1$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$Lab5$$loop$1$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$Lab5$$loop$1$2$$anonfun$apply$5
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$Lab5$$loop$1$2$$anonfun$apply$5$$anonfun$apply$6
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$castOk$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$hasFunctionTyp$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$iterateStep$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$mapFirstWith$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$mapFirstWith$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$mapFirstWith$3
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$processFile$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$processFile$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$10
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$11
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$12
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$13
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$14
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$15
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$16
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$17
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$18
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$18$$anonfun$apply$3
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$18$$anonfun$apply$4
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$19
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$20
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$21
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$22
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$23
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$24
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$25
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$26
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$27
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$28
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$29
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$3
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$4
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$5
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$5$$anonfun$apply$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$6
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$7
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$8
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$8$$anonfun$apply$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$step$9
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$substitute$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$substitute$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$typeInfer$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$typeInfer$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$$anonfun$typeInfer$3
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$TerminationError
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> Lab5$TerminationError$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$10
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$11
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$12
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$12$$anonfun$apply$5
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$13
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$14
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$15
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$15$$anonfun$apply$6
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$18
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$2$$anonfun$16
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$2$$anonfun$16$$anonfun$apply$7
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$2$$anonfun$17
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$21
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$21$$anonfun$apply$10
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$22
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$23
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$24
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$25
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$26
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$3
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$4
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$5
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$6
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$7
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$8
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$9
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$checkClosed$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$doget$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$domodify$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$domodify$1$$anonfun$apply$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$doreturn$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$freeVars$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$freeVarsVar$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$freeVarsVar$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$freeVarsVar$3
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$freeVarsVar$4
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$jsy$lab5$ast$$myvisitant$1$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$jsy$lab5$ast$$myvisitant$2$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$jsy$lab5$ast$$subst$1$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$jsy$lab5$ast$$subst$2$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$19
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$19$$anonfun$apply$8
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$20
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$applyOrElse$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$jsy$lab5$ast$$tyrm$1$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$jsy$lab5$ast$$tyrm$1$1$$anonfun$applyOrElse$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$pretty$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$pretty$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$removeFromTyp$1$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$removeFromTyp$1$1$$anonfun$apply$9
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$rename$1$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$rename$1$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$rename$1$3
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$typSubstitute$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$$anonfun$typSubstituteExpr$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$A
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$A$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$And$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Assign
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Assign$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$B
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$B$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Binary
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Binary$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Bop
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Call
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Call$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Cast
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Cast$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Decl
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Decl$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Deref$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Div$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$DoWith
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$DoWith$$anonfun$flatMap$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$DoWith$$anonfun$map$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$DynamicTypeError
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$DynamicTypeError$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Eq$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Expr
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Function
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Function$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Ge$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$GetField
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$GetField$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Gt$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$If
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$If$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$InterfaceDecl
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$InterfaceDecl$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Le$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Lt$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$MConst$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$MVar$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Mem
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Mem$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Mem$$anonfun$alloc$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Mem$$anonfun$alloc$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Mem$$anonfun$alloc$2$$anonfun$apply$3
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Mem$$anonfun$alloc$2$$anonfun$apply$4
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Minus$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Mutability
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$N
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$N$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Ne$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Neg$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Not$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Null$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$NullDereferenceError
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$NullDereferenceError$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Obj
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Obj$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Or$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$PMode
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$PName$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$PRef$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$PVar$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Plus$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Print
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Print$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$S
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$S$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Seq$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$StaticTypeError
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$StaticTypeError$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$StuckError
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$StuckError$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TBool$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TFunction
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TFunction$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TFunction$$anonfun$proj$1$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TFunction$$anonfun$proj$1$1$$anonfun$apply$1
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TFunction$$anonfun$proj$1$2
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TInterface
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TInterface$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TNull$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TNumber$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TObj
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TObj$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TString$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TUndefined$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TVar
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$TVar$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Times$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Typ
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Unary
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Unary$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$UnboundVariableError
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Undefined$
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Uop
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Var
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> jsy.lab5.ast$Var$
+product stamps:
+218 items
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$1.class -> lastModified(1396817941000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$2.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$3.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$4.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$5.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$6.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$7.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$8.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$Lab5$$loop$1$1.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$Lab5$$loop$1$2$$anonfun$apply$5$$anonfun$apply$6.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$Lab5$$loop$1$2$$anonfun$apply$5.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$Lab5$$loop$1$2.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$castOk$1.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$hasFunctionTyp$1.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$iterateStep$1.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$mapFirstWith$1.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$mapFirstWith$2.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$mapFirstWith$3.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$processFile$1.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$processFile$2.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$1.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$10.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$11.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$12.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$13.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$14.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$15.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$16.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$17.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$18$$anonfun$apply$3.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$18$$anonfun$apply$4.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$18.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$19.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$2.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$20.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$21.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$22.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$23.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$24.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$25.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$26.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$27.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$28.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$29.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$3.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$4.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$5$$anonfun$apply$1.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$5.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$6.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$7.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$8$$anonfun$apply$2.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$8.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$step$9.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$substitute$1.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$substitute$2.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$typeInfer$1.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$typeInfer$2.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$$anonfun$typeInfer$3.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$.class -> lastModified(1396817941000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$TerminationError$.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5$TerminationError.class -> lastModified(1396817942000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/Lab5.class -> lastModified(1396817941000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$1.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$10.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$11.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$12$$anonfun$apply$5.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$12.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$13.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$14.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$15$$anonfun$apply$6.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$15.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$18.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$2$$anonfun$16$$anonfun$apply$7.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$2$$anonfun$16.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$2$$anonfun$17.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$2.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$21$$anonfun$apply$10.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$21.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$22.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$23.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$24.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$25.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$26.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$3.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$4.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$5.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$6.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$7.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$8.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$9.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$checkClosed$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$doget$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$domodify$1$$anonfun$apply$2.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$domodify$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$doreturn$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$freeVars$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$freeVarsVar$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$freeVarsVar$2.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$freeVarsVar$3.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$freeVarsVar$4.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$myvisitant$1$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$myvisitant$2$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$1$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$19$$anonfun$apply$8.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$19.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$20.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$2$1$$anonfun$applyOrElse$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$subst$2$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$tyrm$1$1$$anonfun$applyOrElse$2.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$jsy$lab5$ast$$tyrm$1$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$pretty$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$pretty$2.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$removeFromTyp$1$1$$anonfun$apply$9.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$removeFromTyp$1$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$rename$1$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$rename$1$2.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$rename$1$3.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$typSubstitute$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$$anonfun$typSubstituteExpr$1.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$.class -> lastModified(1396653546000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$A$.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$A.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$And$.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Assign$.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Assign.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$B$.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$B.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Binary$.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Binary.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Bop.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Call$.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Call.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Cast$.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Cast.class -> lastModified(1396653547000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Decl$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Decl.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Deref$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Div$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$DoWith$$anonfun$flatMap$1.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$DoWith$$anonfun$map$1.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$DoWith.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$DynamicTypeError$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$DynamicTypeError.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Eq$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Expr.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Function$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Function.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Ge$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$GetField$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$GetField.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Gt$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$If$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$If.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$InterfaceDecl$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$InterfaceDecl.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Le$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Lt$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$MConst$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$MVar$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem$$anonfun$alloc$1.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem$$anonfun$alloc$2$$anonfun$apply$3.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem$$anonfun$alloc$2$$anonfun$apply$4.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem$$anonfun$alloc$2.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mem.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Minus$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Mutability.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$N$.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$N.class -> lastModified(1396653548000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Ne$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Neg$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Not$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Null$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$NullDereferenceError$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$NullDereferenceError.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Obj$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Obj.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Or$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$PMode.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$PName$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$PRef$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$PVar$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Plus$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Print$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Print.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$S$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$S.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Seq$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$StaticTypeError$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$StaticTypeError.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$StuckError$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$StuckError.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TBool$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TFunction$$anonfun$proj$1$1$$anonfun$apply$1.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TFunction$$anonfun$proj$1$1.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TFunction$$anonfun$proj$1$2.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TFunction$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TFunction.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TInterface$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TInterface.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TNull$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TNumber$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TObj$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TObj.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TString$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TUndefined$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TVar$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$TVar.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Times$.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Typ.class -> lastModified(1396653549000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Unary$.class -> lastModified(1396653550000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Unary.class -> lastModified(1396653550000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$UnboundVariableError.class -> lastModified(1396653550000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Undefined$.class -> lastModified(1396653550000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Uop.class -> lastModified(1396653550000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Var$.class -> lastModified(1396653550000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast$Var.class -> lastModified(1396653550000)
+/Users/gpoison/scala_projects/lab5/target/scala-2.10/classes/jsy/lab5/ast.class -> lastModified(1396653546000)
+source stamps:
+2 items
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> hash(1d77afd5ebd1c1eb7cf539a4bbc0abf3450b73d0)
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> hash(97e9dfff22664cf4ca2e1b571e7122b80f8d20ee)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1381238674000)
+/Users/gpoison/.sbt/boot/scala-2.10.3/lib/scala-library.jar -> lastModified(1380275091000)
+/Users/gpoison/scala_projects/lab5/lib/liblab5.jar -> lastModified(1395289544000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Throwable
+/Users/gpoison/.sbt/boot/scala-2.10.3/lib/scala-library.jar -> scala.Function1
+/Users/gpoison/scala_projects/lab5/lib/liblab5.jar -> jsy.util.JsyApplication
+internal apis:
+2 items
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSIdu0j8FrMwCAAVJAAdhcGlIYXNoWgAIaGFzTWFjcm9MAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC/5sM7AHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AA54cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAETGFiNXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AJwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ADkwACWluaGVyaXRlZHEAfgAOTAAHcGFyZW50c3EAfgAOeHEAfgAuc3EAfgAnAXVxAH4ACQAAAABwc3EAfgAnAXVxAH4ACQAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AD3EAfgAZdXEAfgAaAAAAAHNxAH4AHAB0AARtYWludXEAfgAfAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4AFUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AC10AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgAtc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AFXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBMdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+ABVMAAN0cGVxAH4AOHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AInQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AQFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4ALXNxAH4AP3QABUFycmF5cQB+AEV1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AP3QABlN0cmluZ3NxAH4AQ3NxAH4ARnVxAH4ASQAAAANzcQB+AEt0AARqYXZhc3EAfgBLdAAEbGFuZ3EAfgBQcHNxAH4AJwF1cQB+AGQAAAADc3EAfgA/dAAOSnN5QXBwbGljYXRpb25zcQB+AENzcQB+AEZ1cQB+AEkAAAADc3EAfgBLdAADanN5c3EAfgBLdAAEdXRpbHEAfgBQc3EAfgA/dAAGT2JqZWN0cQB+AGhzcQB+AD90AANBbnlxAH4ARXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAUU41jSVdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAVTAAPc291cmNlRGlyZWN0b3J5cQB+ABV4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFB13r9Xr0cHrfPU5pLvAq/NFC3PQ
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSIdu0j8FrMwCAAVJAAdhcGlIYXNoWgAIaGFzTWFjcm9MAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBGeRbuAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AA54cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAManN5LmxhYjUuYXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AKHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AJwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ADkwACWluaGVyaXRlZHEAfgAOTAAHcGFyZW50c3EAfgAOeHEAfgAwc3EAfgAnAXVxAH4ACQAAAABwc3EAfgAnAXVxAH4ACQAAAABwc3EAfgAnAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAVTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AL3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AL3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+ABV4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4ASHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4ASXNxAH4APHQAA0FueXNxAH4AQHNxAH4AQ3VxAH4ARgAAAAJzcQB+AEh0AAVzY2FsYXEAfgBPcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAVeHB0AAhqc3kubGFiNXNxAH4AWXQAA2pzeXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRS8JZLV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABVMAA9zb3VyY2VEaXJlY3RvcnlxAH4AFXhwdAA8L1VzZXJzL2dwb2lzb24vc2NhbGFfcHJvamVjdHMvbGFiNS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUl+nf/yJmTPTKLhtXHnEiuA+NIO4=
+external apis:
+0 items
+source infos:
+2 items
+/Users/gpoison/scala_projects/lab5/src/main/scala/Lab5.scala -> 
+AAAAAAAAAAA=
+/Users/gpoison/scala_projects/lab5/src/main/scala/jsy/lab5/ast.scala -> 
+AAAAAAAAAAMAAAEAAACnACsgIGRlZiBpc1ZhbHVlKGU6IEV4cHIpOiBCb29sZWFuID0gZSBtYXRjaCB7AQAAE7cBAAAAIgEAIiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAEQvVXNlcnMvZ3BvaXNvbi9zY2FsYV9wcm9qZWN0cy9sYWI1L3NyYy9tYWluL3NjYWxhL2pzeS9sYWI1L2FzdC5zY2FsYQEARC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvc3JjL21haW4vc2NhbGEvanN5L2xhYjUvYXN0LnNjYWxhALhDYW5ub3QgY2hlY2sgbWF0Y2ggZm9yIHVucmVhY2hhYmlsaXR5LgooVGhlIGFuYWx5c2lzIHJlcXVpcmVkIG1vcmUgc3BhY2UgdGhhbiBhbGxvd2VkLiBQbGVhc2UgdHJ5IHdpdGggc2NhbGFjIC1Ec2NhbGFjLnBhdG1hdC5hbmFseXNpc0J1ZGdldD01MTIgb3IgLURzY2FsYWMucGF0bWF0LmFuYWx5c2lzQnVkZ2V0PW9mZi4pAQAAAQAAATkANSAgICAgIHZhbCBmID0gdmlzaXRhbnQobG9vcCkoZW52KS5vckVsc2VbRXhwcixFeHByXSB7AQAAJ3wBAAAANAEANCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABAEQvVXNlcnMvZ3BvaXNvbi9zY2FsYV9wcm9qZWN0cy9sYWI1L3NyYy9tYWluL3NjYWxhL2pzeS9sYWI1L2FzdC5zY2FsYQEARC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvc3JjL21haW4vc2NhbGEvanN5L2xhYjUvYXN0LnNjYWxhALhDYW5ub3QgY2hlY2sgbWF0Y2ggZm9yIHVucmVhY2hhYmlsaXR5LgooVGhlIGFuYWx5c2lzIHJlcXVpcmVkIG1vcmUgc3BhY2UgdGhhbiBhbGxvd2VkLiBQbGVhc2UgdHJ5IHdpdGggc2NhbGFjIC1Ec2NhbGFjLnBhdG1hdC5hbmFseXNpc0J1ZGdldD01MTIgb3IgLURzY2FsYWMucGF0bWF0LmFuYWx5c2lzQnVkZ2V0PW9mZi4pAQAAAQAAAZMAESAgICAgICAgZSBtYXRjaCB7AQAANycBAAAACAEACCAgICAgICAgAQBEL1VzZXJzL2dwb2lzb24vc2NhbGFfcHJvamVjdHMvbGFiNS9zcmMvbWFpbi9zY2FsYS9qc3kvbGFiNS9hc3Quc2NhbGEBAEQvVXNlcnMvZ3BvaXNvbi9zY2FsYV9wcm9qZWN0cy9sYWI1L3NyYy9tYWluL3NjYWxhL2pzeS9sYWI1L2FzdC5zY2FsYQC4Q2Fubm90IGNoZWNrIG1hdGNoIGZvciB1bnJlYWNoYWJpbGl0eS4KKFRoZSBhbmFseXNpcyByZXF1aXJlZCBtb3JlIHNwYWNlIHRoYW4gYWxsb3dlZC4gUGxlYXNlIHRyeSB3aXRoIHNjYWxhYyAtRHNjYWxhYy5wYXRtYXQuYW5hbHlzaXNCdWRnZXQ9NTEyIG9yIC1Ec2NhbGFjLnBhdG1hdC5hbmFseXNpc0J1ZGdldD1vZmYuKQE=
+compilations:
+17 items
+000 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRTAnI3h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+001 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRS/j94p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+002 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRTAQwGx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+003 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRTAM4fV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+004 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRTABN3p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+005 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRTAjuXx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+006 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRS8JZLV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+007 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRS/xwsB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+008 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRS/lFvN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+009 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRS//vKx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+010 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRS/ZtxV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+011 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRTee8g11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+012 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRTAVvzF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+013 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRS/yVLl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+014 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRTCpP7p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+015 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRTjUMgZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+016 -> 
+rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABRTjWNJV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9ncG9pc29uL3NjYWxhX3Byb2plY3RzL2xhYjUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+compile setup:
+1 items
+1 -> 
+AAA8L1VzZXJzL2dwb2lzb24vc2NhbGFfcHJvamVjdHMvbGFiNS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzAAAAAAAAAAAABjIuMTAuMwAAAAA=

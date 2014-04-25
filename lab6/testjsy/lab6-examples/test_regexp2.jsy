@@ -1,0 +1,4 @@
+const f = function (r: RegExp) {
+  return r
+}
+f(/^a$/).test("abc")
